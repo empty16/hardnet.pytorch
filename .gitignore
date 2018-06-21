@@ -1,0 +1,18 @@
+#python
+*.so
+*.egg
+*.egg-info
+dist
+build
+*.caffemodel
+
+#My configuration
+data
+externals
+logs
+pretrained
+wxbs-descriptors-benchmark
+.idea
+backup
+*.t7
+*.xls
